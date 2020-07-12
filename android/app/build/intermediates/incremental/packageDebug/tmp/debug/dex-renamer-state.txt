@@ -1,0 +1,4 @@
+#Thu May 28 05:19:23 CDT 2020
+base.0=D\:\\Star.Master\\development\\workspace\\mobiles\\react_native\\eric_corona\\coronatest\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,213 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml:1:1-27:12
+MERGED from [:react-native-localization] D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\node_modules\react-native-localization\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.62.1] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\b53df410cbb2e89396f2a7aa97a346b7\jetified-react-native-0.62.1\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\ab2c0d53782effd02ac7f499ae154019\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\878d307d3ad7c425a6740cc4078fb7af\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\c49cdaa5969bec656a216ff6f3f03cc7\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\a0cc55542e7f80901507e4e652970d1e\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\055a171d10c43231a2795117ecd4c3fd\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\1ed26cdc1f47a6754ce1546799dd43a1\android-jsc-r245459\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\node_modules\react-native-linear-gradient\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\83ef104dfb430f397d92e4759e916162\fresco-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\8547c58d8a189afcab5540191afe7320\imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\ee0a0f1df6ec82b39c6bd94672681bab\drawee-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\fbdc3e33c0cf4fb6618b3fcc8d105591\nativeimagefilters-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\c3b7b12f448628b281d0d62b884cad68\imagepipeline-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\3b198830d922c7c36b5728d232b5dfa2\nativeimagetranscoder-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\8b504391aa72c1fccbfde5f9aecf364d\imagepipeline-base-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\9de4f137b5bba80ebab04e77dc5095d4\soloader-0.8.0\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\3e974e7e51555c82be5b9fd468966b2b\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\35cad5169a4745c0bfde91156540bc0d\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\a664c125aa60cf9ff5887e18e09a59ee\vectordrawable-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\b3384283a73b276daf1e9a12cf250bb7\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\b95a670ae7bd376b7902e15855cd0ee3\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\ea21396468df8be045780cd3f2969b01\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\3d8e4bc7a6af7aacf11542b377d7496f\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\d12f3cd832a8f12aaa6c028e5d7796c3\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\f1fdfdf03c30563a3eb92f6c5b5051ce\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\d23cfac6fd44ce3e9a8c7b4e18ff2938\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\6e813fa6b8fc8b59c3519258210e2a27\core-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\210299cf6deed86b415ac4fe49caebbb\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\a20a73fc01b18d3fde5e258f4cd5ad79\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\bf807e61732cc28a01afb3e34dc1b0cd\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\71dd278aed309c95a240fbf4151d1363\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\dcbbc49e5cb5bb2aee330b22c38faa7c\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\fcf7d5609a86ac86db550c02db072902\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\490d3a5efeedcaf0b8c8c3c9854d4403\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\21edf3c6b4f2eecf7b9eccd8e17daad5\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\ae802a55e74c19280a922e6de05f1e6e\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\2a1ee7c7818c2783ad723954444a3349\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\65c9642960bdc3a5a367aa857348132a\jetified-fbcore-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:annotation:0.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\562a4d899b3a7a711a398f7636c8c187\annotation-0.8.2\AndroidManifest.xml:2:1-13:12
+INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml:2:3-34
+		INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml:1:1-27:12
+		INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml:1:1-27:12
+		INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml:6:5-25:19
+MERGED from [com.facebook.react:react-native:0.62.1] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\b53df410cbb2e89396f2a7aa97a346b7\jetified-react-native-0.62.1\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.62.1] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\b53df410cbb2e89396f2a7aa97a346b7\jetified-react-native-0.62.1\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\9de4f137b5bba80ebab04e77dc5095d4\soloader-0.8.0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\9de4f137b5bba80ebab04e77dc5095d4\soloader-0.8.0\AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\6e813fa6b8fc8b59c3519258210e2a27\core-1.0.1\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\6e813fa6b8fc8b59c3519258210e2a27\core-1.0.1\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\210299cf6deed86b415ac4fe49caebbb\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\210299cf6deed86b415ac4fe49caebbb\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:annotation:0.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\562a4d899b3a7a711a398f7636c8c187\annotation-0.8.2\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:annotation:0.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\562a4d899b3a7a711a398f7636c8c187\annotation-0.8.2\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\6e813fa6b8fc8b59c3519258210e2a27\core-1.0.1\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml:7:7-38
+activity#com.razraz.coronatest.MainActivity
+ADDED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml:13:7-23:18
+	android:label
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:launchMode
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml:17:9-40
+	android:windowSoftInputMode
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml:16:9-86
+	android:name
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-localization] D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\node_modules\react-native-localization\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-localization] D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\node_modules\react-native-localization\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.1] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\b53df410cbb2e89396f2a7aa97a346b7\jetified-react-native-0.62.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.1] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\b53df410cbb2e89396f2a7aa97a346b7\jetified-react-native-0.62.1\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\ab2c0d53782effd02ac7f499ae154019\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\ab2c0d53782effd02ac7f499ae154019\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\878d307d3ad7c425a6740cc4078fb7af\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\878d307d3ad7c425a6740cc4078fb7af\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\c49cdaa5969bec656a216ff6f3f03cc7\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\c49cdaa5969bec656a216ff6f3f03cc7\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\a0cc55542e7f80901507e4e652970d1e\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\a0cc55542e7f80901507e4e652970d1e\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\055a171d10c43231a2795117ecd4c3fd\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\055a171d10c43231a2795117ecd4c3fd\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\1ed26cdc1f47a6754ce1546799dd43a1\android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\1ed26cdc1f47a6754ce1546799dd43a1\android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\node_modules\react-native-linear-gradient\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\node_modules\react-native-linear-gradient\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\83ef104dfb430f397d92e4759e916162\fresco-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\83ef104dfb430f397d92e4759e916162\fresco-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\8547c58d8a189afcab5540191afe7320\imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\8547c58d8a189afcab5540191afe7320\imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\ee0a0f1df6ec82b39c6bd94672681bab\drawee-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\ee0a0f1df6ec82b39c6bd94672681bab\drawee-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\fbdc3e33c0cf4fb6618b3fcc8d105591\nativeimagefilters-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\fbdc3e33c0cf4fb6618b3fcc8d105591\nativeimagefilters-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\c3b7b12f448628b281d0d62b884cad68\imagepipeline-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\c3b7b12f448628b281d0d62b884cad68\imagepipeline-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\3b198830d922c7c36b5728d232b5dfa2\nativeimagetranscoder-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\3b198830d922c7c36b5728d232b5dfa2\nativeimagetranscoder-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\8b504391aa72c1fccbfde5f9aecf364d\imagepipeline-base-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\8b504391aa72c1fccbfde5f9aecf364d\imagepipeline-base-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\9de4f137b5bba80ebab04e77dc5095d4\soloader-0.8.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\9de4f137b5bba80ebab04e77dc5095d4\soloader-0.8.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\3e974e7e51555c82be5b9fd468966b2b\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\3e974e7e51555c82be5b9fd468966b2b\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\35cad5169a4745c0bfde91156540bc0d\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\35cad5169a4745c0bfde91156540bc0d\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\a664c125aa60cf9ff5887e18e09a59ee\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\a664c125aa60cf9ff5887e18e09a59ee\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\b3384283a73b276daf1e9a12cf250bb7\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\b3384283a73b276daf1e9a12cf250bb7\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\b95a670ae7bd376b7902e15855cd0ee3\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\b95a670ae7bd376b7902e15855cd0ee3\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\ea21396468df8be045780cd3f2969b01\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\ea21396468df8be045780cd3f2969b01\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\3d8e4bc7a6af7aacf11542b377d7496f\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\3d8e4bc7a6af7aacf11542b377d7496f\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\d12f3cd832a8f12aaa6c028e5d7796c3\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\d12f3cd832a8f12aaa6c028e5d7796c3\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\f1fdfdf03c30563a3eb92f6c5b5051ce\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\f1fdfdf03c30563a3eb92f6c5b5051ce\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\d23cfac6fd44ce3e9a8c7b4e18ff2938\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\d23cfac6fd44ce3e9a8c7b4e18ff2938\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\6e813fa6b8fc8b59c3519258210e2a27\core-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\6e813fa6b8fc8b59c3519258210e2a27\core-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\210299cf6deed86b415ac4fe49caebbb\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\210299cf6deed86b415ac4fe49caebbb\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\a20a73fc01b18d3fde5e258f4cd5ad79\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\a20a73fc01b18d3fde5e258f4cd5ad79\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\bf807e61732cc28a01afb3e34dc1b0cd\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\bf807e61732cc28a01afb3e34dc1b0cd\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\71dd278aed309c95a240fbf4151d1363\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\71dd278aed309c95a240fbf4151d1363\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\dcbbc49e5cb5bb2aee330b22c38faa7c\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\dcbbc49e5cb5bb2aee330b22c38faa7c\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\fcf7d5609a86ac86db550c02db072902\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\fcf7d5609a86ac86db550c02db072902\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\490d3a5efeedcaf0b8c8c3c9854d4403\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\490d3a5efeedcaf0b8c8c3c9854d4403\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\21edf3c6b4f2eecf7b9eccd8e17daad5\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\21edf3c6b4f2eecf7b9eccd8e17daad5\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\ae802a55e74c19280a922e6de05f1e6e\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\ae802a55e74c19280a922e6de05f1e6e\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\2a1ee7c7818c2783ad723954444a3349\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\2a1ee7c7818c2783ad723954444a3349\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\65c9642960bdc3a5a367aa857348132a\jetified-fbcore-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\65c9642960bdc3a5a367aa857348132a\jetified-fbcore-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:annotation:0.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\562a4d899b3a7a711a398f7636c8c187\annotation-0.8.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:annotation:0.8.0] C:\Users\starm\.gradle\caches\transforms-2\files-2.1\562a4d899b3a7a711a398f7636c8c187\annotation-0.8.2\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Star.Master\development\workspace\mobiles\react_native\eric_corona\coronatest\android\app\src\main\AndroidManifest.xml
